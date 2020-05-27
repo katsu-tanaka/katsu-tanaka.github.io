@@ -23,6 +23,6 @@ title: Presentations
 {: reversed="reversed"}
 
 # Domestic conferences (Presentations at Japanese conferences)   
-  Please see [here](/jp/presentations_j/) (written in Japanese).  
+  Please see [here](/jp/presentations_j.html) (written in Japanese).  
 
 {: reversed="reversed"}
