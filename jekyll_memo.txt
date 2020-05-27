@@ -1,6 +1,6 @@
-Jekyll memo for Github Pages (written by Katsuhiro Tanaka)
+Memo for Jekyll and Github Pages (written by Katsuhiro Tanaka)
 
-# html, css, markdown 等々初心者なので上級者の方がもし見ていたら生暖かく見守ってください．
+# html, css, markdown, Git, GitHub 等々初心者なので上級者の方がもし見ていたら生暖かく見守ってください．
 
 
 基本的に html + css で動いている．
@@ -17,7 +17,8 @@ markdown の header (--- 二つで挟むところ) に書く layout: hogehoge �
 記事のページ：markdown (hoge.md / hoge.markdown) で書く．
 Parent directory に入れず適宜ディレクトリ分けしても読み込んでくれるらしい．
 
-markdown の header に url を指定した場合はその url が，
+markdown の header に url を指定した場合はその url が読まれる．
+（ディレクトリ分けして url 指定しないと Web 上で表示されない？-->表示される）
 
 
 css: css/main.css に大体書いてある（しここに書き足していけばよいのだと思う）
