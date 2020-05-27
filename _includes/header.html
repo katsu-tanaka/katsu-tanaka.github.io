@@ -13,13 +13,24 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+      <ul class="gnav">
+        <li> <a class="page-link" href="/ja/"> 日本語 </a> 
+        	<ul>
+        		<li> <a class="page-link" href="/ja/about_j/"> プロフィール </a> </li>
+        		<li> <a class="page-link" href="/ja/publications_j/"> 出版 </a> </li>
+        		<li> <a class="page-link" href="/ja/presentations_j/"> 発表 </a> </li>
+        		<li> <a class="page-link" href="/ja/contact_j/"> 連絡先 </a> </li>
+        	</ul>
+        </li>
+		<li> <a class="page-link" href="/en/"> English </a> 
+			<ul>
+				<li> <a class="page-link" href="/en/about_e/"> Profile </a> </li>
+        		<li> <a class="page-link" href="/en/publications_e/"> Publications </a> </li>
+        		<li> <a class="page-link" href="/en/presentations_e/"> Presentations </a> </li>
+        		<li> <a class="page-link" href="/en/contact_e/"> Contact </a> </li>
+        	</ul>
+		</li>
+      </ul>
     </nav>
 
   </div>
