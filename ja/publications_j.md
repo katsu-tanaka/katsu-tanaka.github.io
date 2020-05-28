@@ -7,8 +7,8 @@ title: 論文
 ''Finite temperature thermodynamic properties of the spin-1 nematics in an applied magnetic field''  
 [arXiv:2004.10409][blbq_MC]{:target="_blank"}.
 {: reversed="reversed"}
-# 査読付き論文
 
+# 査読付き論文
 1. Katsuhiro Tanaka and Chisa Hotta,  
 ''Multiple quadrupolar or nematic phases driven by the Heisenberg interactions in a spin-1 dimer system forming a bilayer''  
 [Phys. Rev. B **101**, 094422 (2020)][s1dimer_triangular]{:target="_blank"}.  

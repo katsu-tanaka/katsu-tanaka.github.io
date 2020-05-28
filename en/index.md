@@ -2,8 +2,8 @@
 layout: page
 title: English pages
 ---
-- [Top](/index_e/)
-- [Profile](about_e/)
-- [Publications](publications_e/)
-- [Presentations](presentations_e/)
-- [Contact](contact_e/)
+- [Top](/index_e.html)
+- [Profile](about_e.html)
+- [Publications](publications_e.html)
+- [Presentations](presentations_e.html)
+- [Contact](contact_e.html)

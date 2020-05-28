@@ -1,4 +1,4 @@
-Memo for Jekyll and Github Pages (written by Katsuhiro Tanaka)
+Memo for Github Pages and Jekyll (written by Katsuhiro Tanaka)
 
 # html, css, markdown, Git, GitHub 等々初心者なので上級者の方がもし見ていたら生暖かく見守ってください．
 
@@ -18,9 +18,12 @@ markdown の header (--- 二つで挟むところ) に書く layout: hogehoge �
 Parent directory に入れず適宜ディレクトリ分けしても読み込んでくれるらしい．
 
 markdown の header に url を指定した場合はその url が読まれる．
-（ディレクトリ分けして url 指定しないと Web 上で表示されない？-->表示される）
-
-
+・ディレクトリ分けして url 指定しないと Web 上で表示されない？
+  -->表示される．url 指定が間違っていた．
+     hoge/fuga.md というファイルだと，
+     /katsu-tanaka.github.io/hoge/fuga か /katsu-tanaka.github.io/hoge/fuga.html を参照しなければいけない．
+     /katsu-tanaka.github.io/hoge/fuga/ とスラッシュを入れるとダメ．
+  
 css: css/main.css に大体書いてある（しここに書き足していけばよいのだと思う）
 header. footer などに関するところは _sass/_layout.css にある？
 

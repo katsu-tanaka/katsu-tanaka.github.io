@@ -7,7 +7,7 @@ title: プロフィール
 
 # 経歴
 - 2018/04 -- 現在    
-  東京大学大学院総合文化研究科広域科学専攻相関基礎科学系 博士後期課程（指導教官：堀田知佐 准教授）    
+  東京大学大学院総合文化研究科広域科学専攻相関基礎科学系 博士（博士後期）課程（指導教官：堀田知佐 准教授）    
 - 2016/04 -- 2018/03  
   東京大学大学院総合文化研究科広域科学専攻相関基礎科学系 修士課程（指導教官：堀田知佐 准教授）   
 - 2014/04 -- 2016/03   
@@ -26,3 +26,6 @@ title: プロフィール
 - 2018  
   平成 30 年度第 1 回「博士・修士課程学生のための国際研究集会渡航助成」（東京大学大学院総合文化研究科広域科学専攻）  
   （Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Gordon Research Conference on Multiferroic and Magnetoelectric Materials 参加のための助成．）
+
+# 教育経験
+- [ティーチングアシスタント](ta_j.html)
