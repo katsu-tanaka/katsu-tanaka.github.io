@@ -4,6 +4,8 @@ title: Homepage of Katsuhiro Tanaka
 ---
 
 ### News (yyyy/mm/dd)
+- 2020/mm/dd   
+  This website is opened (tentative).
 - 2020/04/23  
   Our new preprint has been opened.  
   KT and Chisa Hotta,    

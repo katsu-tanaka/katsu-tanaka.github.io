@@ -4,6 +4,10 @@ title: Homepage of Katsuhiro Tanaka
 ---
 
 ### News (yyyy/mm/dd)
+- **2020/mm/dd**   
+  ホームページ（仮）を公開しました．
+  しばらく工事中なので（仮）です．   
+
 - **2020/04/23**   
   プレプリントを公開しました．   
   KT and Chisa Hotta,   

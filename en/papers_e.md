@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Papers
 ---
 # Preprints
 1. Katsuhiro Tanaka and Chisa Hotta,  
