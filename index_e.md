@@ -9,6 +9,7 @@ title: Homepage of Katsuhiro Tanaka
 
 - *2020/09/10*
   We gave a presentation in JPS 2020 Autumn Meeting (Condensed Matter Physics).   
+  KT and Chisa Hotta,
   10a1-4 ''Magnetic field effect on thermodynamic properties of the spin-1 nematic phases''
 
 - *2020/04/23*  
