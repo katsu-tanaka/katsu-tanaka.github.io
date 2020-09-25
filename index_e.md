@@ -5,12 +5,14 @@ title: Homepage of Katsuhiro Tanaka
 
 ### News (yyyy/mm/dd)
 - 2020/mm/dd   
-  This website is opened (tentative).
+  This website is opened (tentative).   
+
 - 2020/04/23  
   Our new preprint has been opened.  
   KT and Chisa Hotta,    
   ''Finite temperature thermodynamic properties of the spin-1 nematics in an applied magnetic field''     
   [arXiv:2004.10409](http://arxiv.org/abs/2004.10409){:target="_blank"}.    
+
 - 2020/03/18  
   Our new paper is published.    
   KT and Chisa Hotta,   
