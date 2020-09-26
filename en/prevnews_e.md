@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 過去のできごと
+title: Previous news
 ---
-（工事中）
 - 2019
 - 2018
 - 2017

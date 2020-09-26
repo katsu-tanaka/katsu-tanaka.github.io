@@ -9,8 +9,8 @@ title: Homepage of Katsuhiro Tanaka
 
 - **2020/09/10**  
   We gave a presentation in JPS 2020 Autumn Meeting (Condensed Matter Physics).   
-  KT and Chisa Hotta,
-  10a1-4 ''Magnetic field effect on thermodynamic properties of the spin-1 nematic phases''
+  KT and Chisa Hotta,  
+  10a1-4 ''Magnetic field effect on thermodynamic properties of the spin-1 nematic phases''  
 
 - **2020/04/23**  
   Our new preprint has been opened.  
@@ -23,4 +23,7 @@ title: Homepage of Katsuhiro Tanaka
   KT and Chisa Hotta,   
   ''Multiple quadrupolar or nematic phases driven by the Heisenberg interactions in a spin-1 dimer system forming a bilayer'',  
   [Phys. Rev. B **101**, 094422 (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.094422){:target="_blank"}.
-  
+
+<br>
+
+[previous news](/en/prevnews_e.html)
