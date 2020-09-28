@@ -56,3 +56,24 @@ $on-laptop:        800px;
 @menu-nav {
         display: flex;
 }
+
+table {
+        width: 50%;
+        text-align: center;
+        border: solid 0px $background-color;
+        border-collapse: collapse;
+}
+
+table tr{
+        padding: 1px 1px 1px 1px;
+        border-bottom: solid 0px $background-color;
+        text-align: center;
+        background: #f9fffc;
+}
+
+table th{
+        padding: 1px 1px 1px 1px;
+        border-bottom: solid 0px $background-color;
+        background: #f9fffc;
+        text-align: center;
+}
