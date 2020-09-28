@@ -24,7 +24,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $black:            #000000;
 
 // Width of the content area
-$content-width:    90%;
+$content-width:    100%;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -58,7 +58,8 @@ $on-laptop:        800px;
 }
 
 table {
-        width: 50%;
+        width: 45%;
+        font-size: 14px;
         text-align: center;
         border: solid 0px $background-color;
         border-collapse: collapse;
@@ -68,6 +69,7 @@ table tr{
         padding: 1px 1px 1px 1px;
         border-bottom: solid 0px $background-color;
         text-align: center;
+        font-size: 14px;
         background: #f9fffc;
 }
 
@@ -75,5 +77,6 @@ table th{
         padding: 1px 1px 1px 1px;
         border-bottom: solid 0px $background-color;
         background: #f9fffc;
+        font-size: 14px;
         text-align: center;
 }
