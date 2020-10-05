@@ -7,9 +7,9 @@ Katsuhiro Tanaka
 
 # CV 
 - 2018/04 -- present   
-  Doctoral program, Department of Basic Science, Graduate School of Arts and Sciences, University of Tokyo   
+  Doctoral program, Department of Basic Science, Graduate School of Arts and Sciences, University of Tokyo (Supervisor: Assoc. Prof. Chisa Hotta)   
 - 2016/04 -- 2018/03   
-  Master's program, Department of Basic Science, Graduate School of Arts and Sciences, University of Tokyo   
+  Master's program, Department of Basic Science, Graduate School of Arts and Sciences, University of Tokyo (Supervisor: Assoc. Prof. Chisa Hotta)   
 - 2014/04 -- 2016/03  
   Department of Chemistry, School of Science, University of Tokyo  
 - 2012/04 -- 2014/03  
