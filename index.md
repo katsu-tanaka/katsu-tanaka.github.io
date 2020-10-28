@@ -9,7 +9,7 @@ title: Homepage of Katsuhiro Tanaka
   しばらく工事中なので（仮）です．     
 
 - **2020/10/28**  
-  OIST Theory of Quantum Matter Unit (Prof. Shannon) にてオンラインセミナーを行わせていただきます．  
+  OIST Theory of Quantum Matter Unit (Prof. Shannon) にてオンラインセミナーを行わせていただきました．  
 
 - **2020/10/05**   
   論文が出版されました．    

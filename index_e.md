@@ -8,7 +8,7 @@ title: Homepage of Katsuhiro Tanaka
   This website is opened (tentative).   
   
 - **2020/10/28**   
-  I will give a seminar in OIST Theory of Quantum Matter Unit (Prof. Shannon).
+  I gave a seminar in OIST Theory of Quantum Matter Unit (Prof. Shannon).
 
 - **2020/10/05**   
   Our new paper is published.   
