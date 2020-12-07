@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage of Katsuhiro Tanaka
+title: Katsuhiro Tanaka
 ---
 
 田中克大のホームページです．  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage of Katsuhiro Tanaka
+title: Katsuhiro Tanaka
 ---
 
 ### News (yyyy/mm/dd)
