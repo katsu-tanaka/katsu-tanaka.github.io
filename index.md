@@ -3,6 +3,8 @@ layout: default
 title: Homepage of Katsuhiro Tanaka
 ---
 
+田中克大のホームページです．  
+
 ### News (yyyy/mm/dd)
 - **2020/mm/dd**   
   ホームページ（仮）を公開しました．
