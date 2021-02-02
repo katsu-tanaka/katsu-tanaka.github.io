@@ -3,9 +3,13 @@ layout: page
 title: ティーチングアシスタント
 ---
 
+- 2020 年 A セメスター ALESS Lab（東京大学教養学部，担当教員：Diego Tavares Vasques 氏）  
+
+- 2020 年 A セメスター 電磁気学 A（東京大学教養学部，担当教員：竹内誠氏）  
+
 - 2020 年 S セメスター 熱力学（東京大学教養学部，担当教員：関野恭弘氏）  
 
-- 2020 年 S セメスター ALESS Lab TA（東京大学教養学部，担当教員：Diego Tavares Vasques 氏）  
+- 2020 年 S セメスター ALESS Lab（東京大学教養学部，担当教員：Diego Tavares Vasques 氏）  
 
 - 2019 年 A セメスター 物性理論（東京大学大学院総合文化研究科，担当教員：堀田知佐氏）  
 
