@@ -4,7 +4,7 @@ title: Contact
 ---
 
 - Address:    
-  225, Building 16, 3-8-1 Komaba, Meguro-ku, Tokyo, Japan, 153-8902  
-  University of Tokyo, Komaba Campus  
+  Faculty of Engineering Building 6, 7-3-1 Hongo, Bunkyo-ku, Tokyo, Japan, 113-8656  
+  University of Tokyo, Hongo Campus  
 - E-mail: [{{ site.email }}](mailto:{{ site.email }})
 
