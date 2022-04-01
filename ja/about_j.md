@@ -5,10 +5,11 @@ title: プロフィール
 # 氏名
 田中 克大（たなか かつひろ）
 
-# 経歴
-
-- 2021/04 -- 現在  
-  東京大学大学院工学系研究科物理工学専攻 有田研究室 PD  
+# 経歴   
+- 2022/04 -- 現在  
+  東京大学先端科学技術研究センター 特任研究員（有田亮太郎研究室）  
+- 2021/04 -- 2022/03  
+  東京大学大学院工学系研究科物理工学専攻 特任研究員（有田亮太郎研究室）  
 - 2018/04 -- 2021/03    
   東京大学大学院総合文化研究科広域科学専攻相関基礎科学系 博士（博士後期）課程（指導教官：堀田知佐 准教授）    
 - 2016/04 -- 2018/03  
@@ -28,7 +29,7 @@ title: プロフィール
   東京大学博士課程研究遂行協力制度（東京大学大学院総合文化研究科）  
 - 2018  
   平成 30 年度第 1 回「博士・修士課程学生のための国際研究集会渡航助成」（東京大学大学院総合文化研究科広域科学専攻）  
-  （Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Gordon Research Conference on Multiferroic and Magnetoelectric Materials 参加のための助成．）
+  （Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Gordon Research Conference on Multiferroic and Magnetoelectric Materials 参加のための助成。）
 
 # 教育経験
 - [ティーチングアシスタント](ta_j.html)

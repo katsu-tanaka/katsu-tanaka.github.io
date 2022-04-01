@@ -1,32 +1,31 @@
 Memo for Github Pages and Jekyll (written by Katsuhiro Tanaka)
 
-# html, css, markdown, Git, GitHub 等々初心者なので上級者の方がもし見ていたら生暖かく見守ってください．
+# html, css, markdown, Git, GitHub 等々初心者なので上級者の方がもし見ていたら生暖かく見守ってください。
 
 
-基本的に html + css で動いている．
-html ページを作るのに markdown で簡単に作れるようにしてくれている．
-というわけで markdown ファイルは各ページの html ファイルを作るために存在しているので，
-デフォルトのスタイルなどをいじりたいときは html や css を直接いじってやる必要がある．
+基本的に html + css で動いている。
+html ページを作るのに markdown で簡単に作れるようにしてくれている。
+というわけで markdown ファイルは各ページの html ファイルを作るために存在しているので、
+デフォルトのスタイルなどをいじりたいときは html や css を直接いじってやる必要がある。
 
 Header, footer:
-_includes/ にある html を直接いじる．
+_includes/ にある html を直接いじる。
 
-各ページの構成は _layouts にある default.html, page.html, post.html を直接いじる．
+各ページの構成は _layouts にある default.html, page.html, post.html を直接いじる。
 markdown の header (--- 二つで挟むところ) に書く layout: hogehoge に対応するところをいじれば OK.
 
-記事のページ：markdown (hoge.md / hoge.markdown) で書く．
-Parent directory に入れず適宜ディレクトリ分けしても読み込んでくれるらしい．
+記事のページ：markdown (hoge.md / hoge.markdown) で書く。
+Parent directory に入れず適宜ディレクトリ分けしても読み込んでくれるらしい。
 
-markdown の header に url を指定した場合はその url が読まれる．
+markdown の header に url を指定した場合はその url が読まれる。
 ・ディレクトリ分けして url 指定しないと Web 上で表示されない？
-  -->表示される．url 指定が間違っていた．
-     hoge/fuga.md というファイルだと，
-     /katsu-tanaka.github.io/hoge/fuga か /katsu-tanaka.github.io/hoge/fuga.html を参照しなければいけない．
-     /katsu-tanaka.github.io/hoge/fuga/ とスラッシュを入れるとダメ．
-  
+  -->表示される。url 指定が間違っていた。
+     hoge/fuga.md というファイルだと、
+     /katsu-tanaka.github.io/hoge/fuga か /katsu-tanaka.github.io/hoge/fuga.html を参照しなければいけない。
+     /katsu-tanaka.github.io/hoge/fuga/ とスラッシュを入れるとダメ。
+
 css: css/main.css に大体書いてある（しここに書き足していけばよいのだと思う）
 header. footer などに関するところは _sass/_layout.css にある？
 
-jekyll s で _site/ 内に html + css ファイルを作っていくので，
-ここ (_site) をいじって更新したつもりになっても意味がない（起動のたびに勝手に更新されてしまうので）．
-
+jekyll s で _site/ 内に html + css ファイルを作っていくので、
+ここ (_site) をいじって更新したつもりになっても意味がない（起動のたびに勝手に更新されてしまうので）。
