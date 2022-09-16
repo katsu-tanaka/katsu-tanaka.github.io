@@ -3,6 +3,11 @@ layout: page
 title: Previous news
 ---
 
+- **2021/03/15**  
+  We gave a presentation in JPS 2021 Annual (76th) Meeting.  
+  KT, Keisuke Totsuka, and Chisa Hotta,  
+  15pC1-8 ''Description of spin nematic phases by dimer basis and two-magnon bound states''  
+
 <!--
 - **2020/11/05**  
   I gave an online seminar in SJTU Joint TDLI/ICMP/WQC Quantum Seminar (Host: Prof. Kamiya).   
@@ -38,8 +43,8 @@ title: Previous news
   KT and Chisa Hotta,   
   ''Multiple quadrupolar or nematic phases driven by the Heisenberg interactions in a spin-1 dimer system forming a bilayer'',  
   [Phys. Rev. B **101**, 094422 (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.094422){:target="_blank"}.
-  
-  
+
+
 - 2019
 - 2018
 - 2017
