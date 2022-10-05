@@ -4,14 +4,17 @@ title: 論文
 ---
 # プレプリント
 
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+''Local density of states as a probe for tunneling magnetoresistance effect: application to ferrimagnetic tunnel junctions''  
+[arXiv:2210.01441](https://arxiv.org/abs/2210.01441){:target="_blank"}.  
 {: reversed="reversed"}
 
 # 査読済み論文
 
 1. Katsuhiro Tanaka and Chisa Hotta,   
-  ''Finite-temperature thermodynamic properties of spin-1 nematics in an applied magnetic field''    
-  [Phys. Rev. B **102**, 140401(R) (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.140401){:target="_blank"}.   
-  
+''Finite-temperature thermodynamic properties of spin-1 nematics in an applied magnetic field''    
+[Phys. Rev. B **102**, 140401(R) (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.140401){:target="_blank"}.   
+
 1. Katsuhiro Tanaka and Chisa Hotta,  
 ''Multiple quadrupolar or nematic phases driven by the Heisenberg interactions in a spin-1 dimer system forming a bilayer''  
 [Phys. Rev. B **101**, 094422 (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.094422){:target="_blank"}.  
