@@ -10,6 +10,11 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2022/12/09**  
+  令和4年度　新学術領域研究「量子液晶の物性科学」領域研究会にてポスター発表を行いました。  
+  KT, Takuya Nomoto, and Ryotaro Arita,  
+  P20, ''Evaluating tunneling magnetoresistance effect with local density of states and its application to ferrimagnetic tunnel junctions''  
+
 - **2022/10/05**  
   プレプリントを公開しました。  
   KT, Takuya Nomoto, and Ryotaro Arita,  

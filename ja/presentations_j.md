@@ -24,6 +24,10 @@ title: 発表
 
 # 国内学会・会議における発表
 
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+  ''Evaluating tunneling magnetoresistance effect with local density of states and its application to ferrimagnetic tunnel junctions''  
+  令和4年度　新学術領域研究「量子液晶の物性科学」領域研究会 P20，名古屋大学 + オンライン，2022 年 12 月（ポスター，査読なし）。  
+
 1. 田中克大，野本拓也，有田亮太郎，  
   『反強磁性体を用いたトンネル磁気抵抗効果の理論計算』  
   日本物理学会 2022 年秋季大会（物性） 14pW641-3, 東京工業大学，2022 年 9 月（口頭，査読なし）。  

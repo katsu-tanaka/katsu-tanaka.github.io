@@ -7,6 +7,11 @@ title: Katsuhiro Tanaka
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2022/12/09**  
+  We gave a poster presentation in FYR04 QLC (Quantum Liquid Crystals) meeting.  
+  KT, Takuya Nomoto, and Ryotaro Arita,  
+  P20, ''Evaluating tunneling magnetoresistance effect with local density of states and its application to ferrimagnetic tunnel junctions''  
+
 - **2022/10/05**  
   We open a preprent.  
   KT, Takuya Nomoto, and Ryotaro Arita,  
