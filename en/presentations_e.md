@@ -7,19 +7,19 @@ title: Presentations
 
 1. Katsuhiro Tanaka and Chisa Hotta,  
    ''Spin nematic phases in two-dimensional spin-1 dimer system''    
-   Trends in Theory of Correlated Materials 2019, Kyoto University, October 2019 (Poster, not refereed)   
+   Trends in Theory of Correlated Materials 2019, Kyoto University, October 2019 (Poster)   
 
 1. Katsuhiro Tanaka and Chisa Hotta,   
    ''Realization of spin nematic phases in antiferromagnetic dimer dumbbell models on two-dimensional lattices''   
-   Topological Phases and Functionality of Correlated Electron Systems 2019, February 2019 (Poster, not refereed)   
+   Topological Phases and Functionality of Correlated Electron Systems 2019, February 2019 (Poster)   
 
 1. Katsuhiro Tanaka, Tsutomu Momoi, and Chisa Hotta,   
    ''Intrinsic electronic ferroelectricity derived from the SU(4) symmetric two-orbital Hubbard model on a triangle''   
-   Gordon Research Conference on Multiferroic and Magnetoelectric Materials, Bates College (USA)，August 2018 (Poster, not refereed)   
+   Gordon Research Conference on Multiferroic and Magnetoelectric Materials, Bates College (USA)，August 2018 (Poster)   
 
 1. Katsuhiro Tanaka, Tsutomu Momoi, and Chisa Hotta,   
    ''Intrinsic electronic ferroelectricity derived from the SU(4) symmetric two-orbital Hubbard model on a triangle''   
-   Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Bates College (USA)，August 2018 (Oral (+ poster), not refereed)   
+   Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Bates College (USA)，August 2018 (Oral (+ poster))   
 {: reversed="reversed"}
 
 # Domestic conferences (Presentations at Japanese conferences)   
