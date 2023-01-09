@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://katsu-tanaka.github.io/index.html" # the base hostname & protocol for your site
 twitter_username:
 github_username:
+google_analytics: G-G9PR5ZLRJ7
 
 # Build settings
 markdown: kramdown
