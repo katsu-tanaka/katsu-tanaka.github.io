@@ -36,6 +36,7 @@ title: Katsuhiro Tanaka
 [過去のできごと](/ja/prevnews_j.html)
 
 
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9PR5ZLRJ7"></script>
 <script>
