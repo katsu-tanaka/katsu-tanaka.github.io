@@ -10,6 +10,16 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2023/02/01**  
+  東京大学大学院理学系研究科物理学専攻に異動しました。  
+
+- **2023/01/19**   
+  Xianzhe Chen さん（東大、現 UC Berkeley）、肥後友也さん（東大）たちとの共著論文が出版されました。  
+  Xianzhe Chen, Tomoya Higo, KT, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
+  ''Octupole-driven magnetoresistance in an antiferromagnetic tunnel junction''  
+  [Nature **613**, 490 (2023)](https://www.nature.com/articles/s41586-022-05463-w){:target="_blank"}.  
+  [プレスリリース](https://www.s.u-tokyo.ac.jp/ja/press/2023/8241/){:target="_blank"}  
+
 - **2023/01/06**  
   新学術領域研究「量子液晶の物性科学」 第2回量子物質開発フォーラムにて発表を行いました。  
   田中克大，  
