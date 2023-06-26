@@ -2,6 +2,7 @@
 layout: page
 title: 論文
 ---
+[ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # プレプリント
 
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
