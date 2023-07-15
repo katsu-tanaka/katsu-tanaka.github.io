@@ -7,6 +7,10 @@ title: Katsuhiro Tanaka
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2023/07/13**  
+  I gave a seminar at Group of Assoc. Prof. Yusuke Nomura, Keio University. Thank you very much!  
+  Title: "Theoretical calculation of tunneling magnetoresistance effect with antiferromagnetic metal"  
+
 - **2023/06/27**  
   Our new paper is published.  
   KT, Takuya Nomoto, and Ryotaro Arita,  
