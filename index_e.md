@@ -8,7 +8,7 @@ title: Katsuhiro Tanaka
   This website is opened (tentative).   
 
 - **2023/07/13**  
-  I gave a seminar at Group of Assoc. Prof. Yusuke Nomura, Keio University. Thank you very much!  
+  I gave a seminar at Group of Assoc. Prof. Yusuke Nomura at Keio University. Thank you very much!  
   Title: "Theoretical calculation of tunneling magnetoresistance effect with antiferromagnetic metal"  
 
 - **2023/06/27**  
