@@ -5,6 +5,10 @@ title: 論文
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # プレプリント
 
+1. Meng Wang<sup>*</sup>, Katsuhiro Tanaka<sup>*</sup>, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa, (<sup>*</sup>: equal contribution)  
+  ''Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal''  
+  [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.
+
 {: reversed="reversed"}
 
 # 査読済み論文

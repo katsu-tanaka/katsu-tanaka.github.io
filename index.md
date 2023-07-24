@@ -11,8 +11,14 @@ title: Katsuhiro Tanaka
   しばらく工事中なので（仮）です。     
 
 - **2023/07/13**  
-  田中が慶応義塾大学理工学部物理情報工学科・野村悠祐さんの研究室でセミナーをさせていただきました。ありがとうございました！  
+  慶応義塾大学理工学部物理情報工学科・野村悠祐さんの研究室でセミナーをさせていただきました。ありがとうございました！  
   タイトル：『反強磁性金属を用いたトンネル磁気抵抗効果の理論計算』  
+
+- **2023/07/12**  
+  プレプリントを公開しました。Meng Wang さん（理研）たちとの共著です。  
+  Meng Wang, KT, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa,  
+  ''Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal''  
+  [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.  
 
 - **2023/06/27**  
   論文が出版されました。  

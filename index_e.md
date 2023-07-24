@@ -11,6 +11,12 @@ title: Katsuhiro Tanaka
   I gave a seminar at Group of Assoc. Prof. Yusuke Nomura at Keio University. Thank you very much!  
   Title: "Theoretical calculation of tunneling magnetoresistance effect with antiferromagnetic metal"  
 
+- **2023/07/12**  
+  We have opened a preprint. This is the joint work with Meng Wang (RIKEN) and collaborators.    
+  Meng Wang, KT, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa,  
+  ''Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal''  
+  [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.  
+
 - **2023/06/27**  
   Our new paper is published.  
   KT, Takuya Nomoto, and Ryotaro Arita,  
