@@ -6,7 +6,7 @@ title: 論文
 # プレプリント
 
 1. Meng Wang<sup>*</sup>, Katsuhiro Tanaka<sup>*</sup>, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa, (<sup>*</sup>: equal contribution)  
-  ''Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal''  
+  ''Emergent zero-field anomalous Hall effect in a reconstructed rutile antiferromagnetic metal''  
   [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.
 
 {: reversed="reversed"}

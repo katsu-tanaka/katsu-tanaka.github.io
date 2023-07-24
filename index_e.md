@@ -14,7 +14,7 @@ title: Katsuhiro Tanaka
 - **2023/07/12**  
   We have opened a preprint. This is the joint work with Meng Wang (RIKEN) and collaborators.    
   Meng Wang, KT, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa,  
-  ''Emergent zero-field anomalous Hall effect in a reconstructedrutileantiferromagnetic metal''  
+  ''Emergent zero-field anomalous Hall effect in a reconstructed rutile antiferromagnetic metal''  
   [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.  
 
 - **2023/06/27**  
