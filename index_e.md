@@ -7,6 +7,11 @@ title: Katsuhiro Tanaka
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2023/07/25**  
+  We gave a poster presentation in the 11th International Symposium on Metallic Multilayers (MML 2023).    
+  KT, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,  
+  0695, ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''  
+
 - **2023/07/13**  
   I gave a seminar at Group of Assoc. Prof. Yusuke Nomura at Keio University. Thank you very much!  
   Title: "Theoretical calculation of tunneling magnetoresistance effect with antiferromagnetic metal"  

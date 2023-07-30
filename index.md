@@ -10,6 +10,11 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2023/07/25**  
+  11th International Symposium on Metallic Multilayers (MML 2023) にてポスター発表を行いました。  
+  KT, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,  
+  0695, ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''  
+  
 - **2023/07/13**  
   慶応義塾大学理工学部物理情報工学科・野村悠祐さんの研究室でセミナーをさせていただきました。ありがとうございました！  
   タイトル：『反強磁性金属を用いたトンネル磁気抵抗効果の理論計算』  

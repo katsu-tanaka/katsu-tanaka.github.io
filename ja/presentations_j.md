@@ -5,6 +5,10 @@ title: 発表
 
 # 国際学会・会議における発表
 
+1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,    
+  ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''   
+  11th International Symposium on Metallic Multilayers (MML 2023), Korea University（韓国），2023 年 7 月（ポスター）。  
+
 1. Katsuhiro Tanaka and Chisa Hotta,   
   ''Spin nematic phases in two-dimensional spin-1 dimer system''   
   Trends in Theory of Correlated Materials 2019, 京都大学，2019 年 10 月（ポスター）。  
