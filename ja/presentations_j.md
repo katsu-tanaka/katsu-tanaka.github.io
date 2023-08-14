@@ -5,6 +5,10 @@ title: 発表
 
 # 国際学会・会議における発表
 
+1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
+  ''Magnetoresistance in a tunnel junction with an antiferromagnet Mn<sub>3</sub>Sn''  
+  International Conference on Quantum Liquid Crystals (QLC2023), PS1-51, 北海道大学，2023 年 8 月（ポスター）。  
+
 1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,    
   ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''   
   11th International Symposium on Metallic Multilayers (MML 2023), Korea University（韓国），2023 年 7 月（ポスター）。  

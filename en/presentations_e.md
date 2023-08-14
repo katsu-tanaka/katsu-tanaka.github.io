@@ -5,13 +5,17 @@ title: Presentations
 
 # International conferences
 
+1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
+  ''Magnetoresistance in a tunnel junction with an antiferromagnet Mn<sub>3</sub>Sn''  
+  International Conference on Quantum Liquid Crystals (QLC2023), PS1-51, Hokkaido University (Japan), August 2023 (Poster).  
+
 1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,  
   ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''   
   11th International Symposium on Metallic Multilayers (MML 2023), Korea University (Korea), July 2023 (Poster).  
 
 1. Katsuhiro Tanaka and Chisa Hotta,  
    ''Spin nematic phases in two-dimensional spin-1 dimer system''    
-   Trends in Theory of Correlated Materials 2019, Kyoto University, October 2019 (Poster).   
+   Trends in Theory of Correlated Materials 2019, Kyoto University (Japan), October 2019 (Poster).   
 
 1. Katsuhiro Tanaka and Chisa Hotta,   
    ''Realization of spin nematic phases in antiferromagnetic dimer dumbbell models on two-dimensional lattices''   

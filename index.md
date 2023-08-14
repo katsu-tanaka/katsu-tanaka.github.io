@@ -10,6 +10,11 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2023/08/08**    
+  International Conference on Quantum Liquid Crystals (QLC2023) にてポスター発表を行いました。    
+  KT, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
+  PS1-51, ''Magnetoresistance in a tunnel junction with an antiferromagnet Mn<sub>3</sub>Sn''  
+
 - **2023/07/25**  
   11th International Symposium on Metallic Multilayers (MML 2023) にてポスター発表を行いました。  
   KT, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,  
