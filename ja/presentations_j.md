@@ -5,11 +5,15 @@ title: 発表
 
 # 国際学会・会議における発表
 
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,    
+  ''Role of local density of states for evaluating tunnel magnetoresistance effect''    
+  Trends in the Theory of Quantum Materials 2023 (TTQM2023), P19, 東京大学柏の葉キャンパス駅前サテライト + 興風会館，2023 年 10 月（ポスター）。   
+
 1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
   ''Magnetoresistance in a tunnel junction with an antiferromagnet Mn<sub>3</sub>Sn''  
   International Conference on Quantum Liquid Crystals (QLC2023), PS1-51, 北海道大学，2023 年 8 月（ポスター）。  
 
-1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, Satoru Nakatsuji,    
+1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,    
   ''Tunneling Magnetoresistance Effect with an Antiferromagnet Mn<sub>3</sub>Sn''   
   11th International Symposium on Metallic Multilayers (MML 2023), Korea University（韓国），2023 年 7 月（ポスター）。  
 
@@ -30,7 +34,11 @@ title: 発表
   Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), ベイツ大学（アメリカ合衆国），2018 年 8 月（口頭（+ ポスター））。  
 {: reversed="reversed"}
 
-# 国内学会・会議における発表
+# 国内学会・会議における発表（本人発表分）   
+
+1. 田中克大，Xianzhe Chen，肥後友也，野本拓也，Hanshen Tsai，井土宏，志賀雅亘，坂本祥哉，安藤遼哉，甲崎秀俊，松尾拓海，浜根大輔，有田亮太郎，三輪真嗣，中辻知，
+  『カイラル反強磁性体Mn<sub>3</sub>Snを用いたトンネル磁気接合素子におけるトンネル磁気抵抗効果の第一原理計算』   
+  日本物理学会第 78 回年次大会（2023 年） 17aB102-13, 東北大学，2023 年 9 月（口頭）。  
 
 1. 田中克大，  
   『反強磁性体・フェリ磁性体におけるトンネル磁気抵抗効果』  
