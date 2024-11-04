@@ -7,7 +7,7 @@ Katsuhiro Tanaka
 
 # CV   
 - 2023/02 -- present  
-  Project Assistant Professor, Department of Physics, Graduate School of Science, University of Tokyo (Prof. Satoru Nakatsuji's Group)   
+  Project Assistant Professor, Department of Physics, Graduate School of Science, University of Tokyo (Group of Prof. Satoru Nakatsuji and Lecturer Akito Sakai)   
 - 2022/04 -- 2023/01  
   PD, Research Center for Advanced Science and Technology, University of Tokyo (Prof. Ryotaro Arita's Group)  
 - 2021/04 -- 2022/03   

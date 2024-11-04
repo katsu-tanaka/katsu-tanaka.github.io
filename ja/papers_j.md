@@ -5,13 +5,21 @@ title: 論文
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # プレプリント
 
-1. Meng Wang<sup>*</sup>, Katsuhiro Tanaka<sup>*</sup>, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa, (<sup>*</sup>: equal contribution)  
-  ''Emergent zero-field anomalous Hall effect in a reconstructed rutile antiferromagnetic metal''  
-  [arXiv:2307.05990](https://arxiv.org/abs/2307.05990){:target="_blank"}.
-
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,   
+  ''Approaches to tunnel magnetoresistance effect with antiferromagnets''   
+  [arXiv:2410.19513](https://doi.org/10.48550/arXiv.2410.19513){:target="_blank"}.   
 {: reversed="reversed"}
 
+
 # 査読済み論文
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+''First-principles study of the tunnel magnetoresistance effect with Cr-doped RuO<sub>2</sub> electrode''   
+[Phys. Rev. B **110**, 064433 (2024)](https://doi.org/10.1103/PhysRevB.110.064433){:target="_blank"}.   
+
+1. Meng Wang<sup>*</sup>, Katsuhiro Tanaka<sup>*</sup>, Shiro Sakai, Ziqian Wang, Ke Deng, Yingjie Lyu, Cong Li, Di Tian, Shengchun Shen, Naoki Ogawa, Naoya Kanazawa, Pu Yu, Ryotaro Arita, Fumitaka Kagawa, (<sup>*</sup>: equal contribution)  
+''Emergent zero-field anomalous Hall effect in a reconstructed rutile antiferromagnetic metal''  
+[Nat. Commun. **14**, 8240 (2023)](https://doi.org/10.1038/s41467-023-43962-0){:target="_blank"}.   
 
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
 ''Local density of states as a probe for tunneling magnetoresistance effect: Application to ferrimagnetic tunnel junctions''  
@@ -34,3 +42,16 @@ title: 論文
 ''Origin of Biquadratic Exchange Interactions in a Mott Insulator as a Driving Force of Spin Nematic Order''  
 [J. Phys. Soc. Jpn. **87**, 023702 (2018)](https://journals.jps.jp/doi/10.7566/JPSJ.87.023702){:target="_blank"}.   
 {: reversed="reversed"}
+
+
+# 総説・解説など   
+
+1. 肥後友也、田中克大、中辻知、   
+「トポロジカル物質はいかに応用されうるか」   
+[数理科学 2024 年 5 月号、p. 58](https://www.saiensu.co.jp/search/?isbn=4910054690545&y=2024){:target="_blank"}.   
+
+1. 田中克大、肥後友也、中辻知、   
+「反強磁性トンネル磁気抵抗効果の観測─超高速・高密度・省電力メモリの開発に向けて─」   
+[自動車技術会誌「自動車技術」 2023 年 12 月号、p. 118](https://www.jsae.or.jp/news/detail/2194/){:target="_blank"}.   
+{: reversed="reversed"}
+
