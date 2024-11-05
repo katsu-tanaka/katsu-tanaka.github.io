@@ -47,7 +47,7 @@ title: Publications
 # Reviews, miscellaneous     
 
 1. Tomoya Higo, Katsuhiro Tanaka, and Satoru Nakatsuji,      
-「トポロジカル物質はいかに応用されうるか」 (How can topological materials can be applied?)  (Japanese article)    
+「トポロジカル物質はいかに応用されうるか」 (How can topological materials be applied?)  (Japanese article)    
 [Mathematical Sciences, May 2024, p. 58](https://www.saiensu.co.jp/search/?isbn=4910054690545&y=2024){:target="_blank"}.   
 
 1. Katsuhiro Tanaka, Tomoya Higo, and Satoru Nakatsuji,     
