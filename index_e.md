@@ -17,7 +17,7 @@ Welcome to Katsuhiro Tanaka's webpage.
 
 
 - **2024/09/16--2024/09/19**   
-  Presentations in the Physical Society of Japan 2023 Annual Meeting (including collaborators' presentations):      
+  Presentations in the Physical Society of Japan 2024 Annual Meeting (including collaborators' presentations):      
   - 18aS105-4   
     田中克大，野本拓也，有田亮太郎  
     「CrドープRuO<sub>2</sub>を用いた接合系におけるトンネル磁気抵抗効果の第一原理計算」  
