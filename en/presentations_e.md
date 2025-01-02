@@ -3,7 +3,21 @@ layout: page
 title: Presentations
 ---
 
-# International conferences
+(Under construction)
+
+# International conferences (speaker)   
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,     
+  ''First-principles calculation of tunnel magnetoresistance effect using Cr-doped RuO<sub>2</sub>''    
+  CEMS Symposium on Emergent Quantum Materials 2024, P073, Bellesalle Akihabara (Japan), February 2024 (Poster).   
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,    
+  ''First-principles study on tunnel magnetoresistance effect with antiferromagnets''    
+  International Symposium on Quantum Electronics 2024, Ito International Research Center (Japan), February 2024 (Oral).     
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,    
+  ''Role of local density of states for evaluating tunnel magnetoresistance effect''    
+  Trends in the Theory of Quantum Materials 2023 (TTQM2023), P19, UTokyo Kashiwanoha Campus Station Satellite + Kohu Kaikan (Japan), October 2023 (Poster).   
 
 1. Katsuhiro Tanaka, Xianzhe Chen, Tomoya Higo, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,  
   ''Magnetoresistance in a tunnel junction with an antiferromagnet Mn<sub>3</sub>Sn''  
@@ -29,6 +43,10 @@ title: Presentations
    ''Intrinsic electronic ferroelectricity derived from the SU(4) symmetric two-orbital Hubbard model on a triangle''   
    Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), Bates College (USA)，August 2018 (Oral (+ poster)).   
 {: reversed="reversed"}
+
+# International conferences (collaborators' presentations)   
+
+1. (Under construction)   
 
 # Domestic conferences (Presentations at Japanese conferences)   
   Please see [here](/ja/presentations_j.html) (written in Japanese).  

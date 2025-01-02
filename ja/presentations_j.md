@@ -3,7 +3,17 @@ layout: page
 title: 発表
 ---
 
-# 国際学会・会議における発表
+抜け漏れなどがある場合があります。   
+
+# 国際学会・会議における発表（本人登壇分）    
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,     
+  ''First-principles calculation of tunnel magnetoresistance effect using Cr-doped RuO<sub>2</sub>''    
+  CEMS Symposium on Emergent Quantum Materials 2024, P073, ベルサール秋葉原，2024 年 2 月（ポスター）。   
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,    
+  ''First-principles study on tunnel magnetoresistance effect with antiferromagnets''    
+  International Symposium on Quantum Electronics 2024, 東京大学伊藤国際学術研究センター，2024 年 2 月（口頭）。     
 
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,    
   ''Role of local density of states for evaluating tunnel magnetoresistance effect''    
@@ -34,27 +44,32 @@ title: 発表
   Gordon Research Seminar on Multiferroic and Magnetoelectric Materials (GRS), ベイツ大学（アメリカ合衆国），2018 年 8 月（口頭（+ ポスター））。  
 {: reversed="reversed"}
 
-# 国内学会・会議における発表（本人発表分）   
 
-1. 田中克大，Xianzhe Chen，肥後友也，野本拓也，Hanshen Tsai，井土宏，志賀雅亘，坂本祥哉，安藤遼哉，甲崎秀俊，松尾拓海，浜根大輔，有田亮太郎，三輪真嗣，中辻知，
-  『カイラル反強磁性体Mn<sub>3</sub>Snを用いたトンネル磁気接合素子におけるトンネル磁気抵抗効果の第一原理計算』   
-  日本物理学会第 78 回年次大会（2023 年） 17aB102-13, 東北大学，2023 年 9 月（口頭）。  
+# 国内学会・会議における発表（本人登壇分）    
+
+1. 田中克大，野本拓也，有田亮太郎，    
+  『Cr ドープ RuO<sub>2</sub> を用いた接合系におけるトンネル磁気抵抗効果の第一原理計算』  
+  日本物理学会第 79 回年次大会（2024 年） 18aS105-4, 北海道大学，2024 年 9 月（口頭）。    
+
+1. 田中克大，Xianzhe Chen，肥後友也，野本拓也，Hanshen Tsai，井土宏，志賀雅亘，坂本祥哉，安藤遼哉，甲崎秀俊，松尾拓海，浜根大輔，有田亮太郎，三輪真嗣，中辻知，   
+  『カイラル反強磁性体Mn<sub>3</sub>Snを用いたトンネル磁気接合素子におけるトンネル磁気抵抗効果の第一原理計算』     
+  日本物理学会第 78 回年次大会（2023 年） 17aB102-13, 東北大学，2023 年 9 月（口頭）。    
 
 1. 田中克大，  
-  『反強磁性体・フェリ磁性体におけるトンネル磁気抵抗効果』  
-  新学術領域研究「量子液晶の物性科学」 第2回量子物質開発フォーラム，東北大学，2023 年 1 月（口頭）。  
+  『反強磁性体・フェリ磁性体におけるトンネル磁気抵抗効果』   
+  新学術領域研究「量子液晶の物性科学」 第2回量子物質開発フォーラム，東北大学，2023 年 1 月（口頭）。   
 
-1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
-  ''Evaluating tunneling magnetoresistance effect with local density of states and its application to ferrimagnetic tunnel junctions''  
-  令和4年度　新学術領域研究「量子液晶の物性科学」領域研究会 P20，名古屋大学 + オンライン，2022 年 12 月（ポスター）。  
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,   
+  ''Evaluating tunneling magnetoresistance effect with local density of states and its application to ferrimagnetic tunnel junctions''    
+  令和4年度　新学術領域研究「量子液晶の物性科学」領域研究会 P20，名古屋大学 + オンライン，2022 年 12 月（ポスター）。    
 
-1. 田中克大，野本拓也，有田亮太郎，  
-  『反強磁性体を用いたトンネル磁気抵抗効果の理論計算』  
-  日本物理学会 2022 年秋季大会（物性） 14pW641-3, 東京工業大学，2022 年 9 月（口頭）。  
+1. 田中克大，野本拓也，有田亮太郎，    
+  『反強磁性体を用いたトンネル磁気抵抗効果の理論計算』    
+  日本物理学会 2022 年秋季大会（物性） 14pW641-3, 東京工業大学，2022 年 9 月（口頭）。    
 
-1. 田中克大，戸塚圭介，堀田知佐，  
-  『ダイマー基底によるスピンネマティック相の記述と 2 マグノン束縛状態』  
-  日本物理学会第 76 回年次大会（2021 年） 15pC1-8, オンライン開催，2021 年 3 月（口頭）。  
+1. 田中克大，戸塚圭介，堀田知佐，    
+  『ダイマー基底によるスピンネマティック相の記述と 2 マグノン束縛状態』    
+  日本物理学会第 76 回年次大会（2021 年） 15pC1-8, オンライン開催，2021 年 3 月（口頭）。   
 
 1. 田中克大，堀田知佐，    
   『スピン 1 ネマティック相の熱力学量に対する外部磁場の効果』    
@@ -89,3 +104,30 @@ title: 発表
   『多軌道系におけるスピンと電気分極の相関』  
   日本物理学会第 72 回年次大会（2017 年） 20aH11-10, 大阪大学，2017 年 3 月（口頭）。
 {: reversed="reversed"}
+
+# 国際学会・会議における発表（共同研究者登壇分）   
+
+1. （工事中）
+
+
+# 国内学会・会議における発表（共同研究者登壇分）   
+
+1. 梶原悠人，田中克大，浜根大輔，是常隆，酒井明人，中辻知，    
+   「ディラック半金属CaAuPにおける異方的輸送特性の測定」   
+   日本物理学会第 79 回年次大会（2024 年） 17pE307-10, 北海道大学，2024 年 9 月（口頭）。    
+
+1. 立石真之，井土宏，近藤理人，犬飼晃司，田中克大，坂本祥哉，肥後友也，三輪真嗣，中辻知，      
+   「Fe/MgO/Mn<sub>3</sub>Snトンネル接合における磁気抵抗効果の接合サイズ及び温度依存性」   
+   日本物理学会第 79 回年次大会（2024 年） 17pN102-6, 北海道大学，2024 年 9 月（口頭）。   
+
+1. 松本卓也，Hang Su，見波将，田中克大，Yangming Wang，中村紘人，浜根大輔，酒井明人，中辻知，   
+   「フェリ磁性体GdCo<sub>2</sub>の単結晶合成と磁気輸送特性について」    
+   日本物理学会第 79 回年次大会（2024 年） 16pE306-10, 北海道大学，2024 年 9 月（口頭）。    
+
+1. 肥後友也，Xianzhe Chen，田中克大，野本拓也，Hanshen Tsai，井土宏，志賀雅亘，坂本祥哉，安藤遼哉，甲崎秀俊，松尾拓海，浜根大輔，有田亮太郎，三輪真嗣，中辻知，   
+   「カイラル反強磁性体Mn3Sn磁気トンネル接合素子における磁気抵抗効果」   
+   日本物理学会第 78 回年次大会（2023 年） 17aB102-12, 東北大学，2023 年 9 月（口頭）。    
+
+1. 近藤理人，柚木﨑正彦，井土宏，犬飼晃司，田中克大，坂本祥哉，肥後友也，三輪真嗣，中辻知，   
+   「Fe/MgO/Mn<sub>3</sub>Sn構造におけるトンネル磁気抵抗効果の接合サイズ依存性」   
+   日本物理学会第 78 回年次大会（2023 年） 16aPS-30, 東北大学，2023 年 9 月（ポスター）。   
