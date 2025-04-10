@@ -5,9 +5,7 @@ title: Publications
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # Preprints
 
-1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,   
-  ''Approaches to tunnel magnetoresistance effect with antiferromagnets''   
-  [arXiv:2410.19513](https://doi.org/10.48550/arXiv.2410.19513){:target="_blank"}.   
+1. 
 {: reversed="reversed"}
 
 
@@ -45,6 +43,10 @@ title: Publications
 
 
 # Reviews, miscellaneous     
+
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,   
+  ''Approaches to tunnel magnetoresistance effect with antiferromagnets'' (Topical Review)   
+  [J. Phys. Condens. Matter **37**, 183003 (2025)](https://doi.org/10.1088/1361-648X/adc05e){:target="_blank"}.    
 
 1. Tomoya Higo, Katsuhiro Tanaka, and Satoru Nakatsuji,      
 「トポロジカル物質はいかに応用されうるか」 (How can topological materials be applied?)  (Japanese article)    
