@@ -6,7 +6,9 @@ title: Profile
 Katsuhiro Tanaka
 
 # CV   
-- 2023/02 -- present  
+- 2025/12 -- present  
+  Assistant Professor, Department of Materials Design and Engineering, School of Sustainable Design, University of Toyama (Photo-Functional Materials Engineering Group (PI: Prof. Yutaka Takaguchi))   
+- 2023/02 -- 2025/11  
   Project Assistant Professor, Department of Physics, Graduate School of Science, University of Tokyo (Group of Prof. Satoru Nakatsuji and Lecturer Akito Sakai)   
 - 2022/04 -- 2023/01  
   PD, Research Center for Advanced Science and Technology, University of Tokyo (Prof. Ryotaro Arita's Group)  
@@ -27,6 +29,12 @@ Katsuhiro Tanaka
 
 
 # Fellowships and Grants
+- 2025/04 -- 2030/03 (Planned)   
+  [KAKENHI Grant-in-Aid for Early-Career Scientists](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K17935/){:target="_blank"}   
+  Principal Investigator  
+- 2025/01 -- 2026/03 (Planned)  
+  Grant from Precise Measurement Technology Promotion Foundation  
+  Co-Investigator (PI: Hiroshi Idzuchi)  
 - 2018/10 -- 2019/03  
   University of Tokyo Grant for Ph.D. Research (Graduate School of Arts and Sciences, University of Tokyo)  
 - 2018  

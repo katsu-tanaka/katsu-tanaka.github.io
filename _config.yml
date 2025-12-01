@@ -1,6 +1,6 @@
 # Site settings
 title: Katsuhiro Tanaka
-email: k-tanaka [at] g.ecc.u-tokyo.ac.jp
+email: ktanaka [at] sus.u-toyama.ac.jp
 description: Personal page of Katsuhiro Tanaka
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://katsu-tanaka.github.io/index.html" # the base hostname & protocol for your site

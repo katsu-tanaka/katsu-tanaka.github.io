@@ -10,6 +10,21 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2025/12/01**    
+  富山大学学術研究部都市デザイン学系（材料デザイン工学科）に異動しました。    
+  メールアドレスが ktanaka [at] sus.u-toyama.ac.jp に変わりました。    
+
+- **2025/10/07--2025/10/09**    
+  International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025) にてポスター発表を行いました。また、共同研究者の方々のポスター発表がありました。    
+  - Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
+    ''First-principles study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn tunnel junction''    
+  - Alpin N. Tatan, Katsuhiro Tanaka, Ryotaro Arita, and Satoru Nakatsuji,    
+    ''First-principles studies of Fe<sub>3</sub>Sn-based magnetic tunnel junctions''    
+  - Hiroshi Idzuchi, Katsuhiro Tanaka, Masayuki Tateishi, Tomoya Higo, Shoya Sakamoto, Shinji Miwa, and Satoru Nakatsuji,    
+    ''Large tunneling magnetoresistance effect from momentum-dependent spin polarization in an antiferromagnetic electrode''    
+  - Yutaro Tsushima, Tomoya Higo, Katsuhiro Tanaka, Mihiro Asakura, Shunichiro Kurosawa, Ryota Uesugi, Ryotaro Arita, and Satoru Nakatsuji,    
+    ''Tuning the Magnetic and Magneto-transport Properties of the Weyl Antiferromagnet Mn<sub>3</sub>Sn Thin Films through Chemical Substitution''    
+
 - **2025/09/29**    
   プレプリントを公開しました。    
   Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
@@ -53,7 +68,7 @@ title: Katsuhiro Tanaka
 - **2025/04/01**  
   科学研究費助成事業（科研費）若手研究  
   [「反強磁性材料を用いた磁気トンネル接合の機能探究」](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17935/){:target="_blank"}  
-  が採択され、スタートしました（研究代表者）。    
+  が採択され、スタートしました。    
 
 <br>
 

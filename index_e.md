@@ -9,6 +9,21 @@ Welcome to Katsuhiro Tanaka's webpage.
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2025/12/01**    
+  I have moved to Department of Materials Design and Engineering, School of Sustainable Design, University of Toyama.   
+  My e-mail address has been changed to ktanaka [at] sus.u-toyama.ac.jp .   
+
+- **2025/10/07--2025/10/09**    
+  Poster presentations in the International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025) (including collaborators' presentations):    
+  - Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
+    ''First-principles study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn tunnel junction''    
+  - Alpin N. Tatan, Katsuhiro Tanaka, Ryotaro Arita, and Satoru Nakatsuji,    
+    ''First-principles studies of Fe<sub>3</sub>Sn-based magnetic tunnel junctions''    
+  - Hiroshi Idzuchi, Katsuhiro Tanaka, Masayuki Tateishi, Tomoya Higo, Shoya Sakamoto, Shinji Miwa, and Satoru Nakatsuji,    
+    ''Large tunneling magnetoresistance effect from momentum-dependent spin polarization in an antiferromagnetic electrode''    
+  - Yutaro Tsushima, Tomoya Higo, Katsuhiro Tanaka, Mihiro Asakura, Shunichiro Kurosawa, Ryota Uesugi, Ryotaro Arita, and Satoru Nakatsuji,    
+    ''Tuning the Magnetic and Magneto-transport Properties of the Weyl Antiferromagnet Mn<sub>3</sub>Sn Thin Films through Chemical Substitution''    
+
 - **2025/09/29**    
   We have opened a preprint.       
   Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
