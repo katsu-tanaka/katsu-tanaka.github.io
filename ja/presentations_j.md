@@ -7,6 +7,10 @@ title: 発表
 
 # 国際学会・会議における発表（本人登壇分）    
 
+1. Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,    
+   ''First-principles study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn tunnel junction''     
+   International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025), ザ・プリンス 箱根芦ノ湖，2025 年 10 月（ポスター）。    
+
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,   
    ''First-principles study of tunnel magnetoresistance effect using an altermagnet Cr-doped RuO<sub>2</sub>''  
    Psi-k Conference 2025, C8.15, SwissTech Convention Center, EPFL, Lausanne（スイス）, 2025 年 8 月（ポスター）。  
@@ -120,41 +124,53 @@ title: 発表
 
 # 国際学会・会議における発表（共同研究者登壇分）   
 
+1. Alpin N. Tatan, Katsuhiro Tanaka, Ryotaro Arita, and Satoru Nakatsuji,    
+   ''First-principles studies of Fe<sub>3</sub>Sn-based magnetic tunnel junctions''    
+   International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025), ザ・プリンス 箱根芦ノ湖，2025 年 10 月（ポスター）。    
+
+1. Hiroshi Idzuchi, Katsuhiro Tanaka, Masayuki Tateishi, Tomoya Higo, Shoya Sakamoto, Shinji Miwa, and Satoru Nakatsuji,    
+   ''Large tunneling magnetoresistance effect from momentum-dependent spin polarization in an antiferromagnetic electrode''    
+   International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025), ザ・プリンス 箱根芦ノ湖，2025 年 10 月（ポスター）。    
+
+1. Yutaro Tsushima, Tomoya Higo, Katsuhiro Tanaka, Mihiro Asakura, Shunichiro Kurosawa, Ryota Uesugi, Ryotaro Arita, and Satoru Nakatsuji,    
+   ''Tuning the Magnetic and Magneto-transport Properties of the Weyl Antiferromagnet Mn<sub>3</sub>Sn Thin Films through Chemical Substitution''    
+   International Symposium on Spintronics with Antiferromagnets and Altermagnets (SAA2025), ザ・プリンス 箱根芦ノ湖，2025 年 10 月（ポスター）。    
+
 1. Tomoya Higo, Xianzhe Chen, Katsuhiro Tanaka, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji,   
    ''Observation of octupole-driven magnetoresistance in a chiral antiferromagnetic tunnel junction''   
-   IEEE International Magnetics Conference INTERMAG 2024, Brazil, 2024 (Invited talk)   
+   IEEE International Magnetics Conference INTERMAG 2024, Brazil, 2024 (Invited talk).   
 
 1. Tomoya Higo, Kouta Kondou, Takuya Nomoto, Xianzhe Chen, Katsuhiro Tanaka, Masanobu Shiga, Shoya Sakamoto, Hanshen Tsai, Hiroshi Idzuchi, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Yoshichika Otani, Shinji Miwa, and Satoru Nakatsuji,   
    ''Electrical manipulation and detection of non-collinear spin textures in the chiral antiferromagnet Mn<sub>3</sub>Sn''   
-   APS March Meeting 2024, USA, 2024 (Invited talk)   
+   APS March Meeting 2024, USA, 2024 (Invited talk).   
 
 1. Yuta Toga, Katsuhiro Tanaka, Satoru Nakatsuji, and Takashi Koretsune,   
    ''Substitution-Driven Enhancement of the Néel Temperature in the Noncollinear Magnet Mn3Sn: A Theoretical Study''   
-   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster)   
+   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster).   
 
 1. Rihito Kondo, Masahiko Yunokizaki, Hiroshi Idzuchi, Koji Inukai, Katsuhiro Tanaka, Shoya Sakamoto, Tomoya Higo, Shinji Miwa, and Satoru Nakatsuji,   
    ''Octupole polarization switching in Mn3Sn probed by magnetoresistance through magnetic tunnel junction with different sizes''   
-   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster)   
+   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster).   
 
 1. Masahiko Yunokizaki, Rihito Kondo, Hiroshi Idzuchi, Koji Inukai, Shoya Sakamoto, Katsuhiro Tanaka, Tomoya Higo, Shinji Miwa, and Satoru Nakatsuji,   
    ''Fabrication of tunnel junction with the antiferromagnetic Weyl semimetal Mn3Sn dot down to sub-micron scale''   
-   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster)   
+   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Poster).   
 
 1. Tomoya Higo, Kouta Kondou, Takuya Nomoto, Xianzhe Chen, Katsuhiro Tanaka, Masanobu Shiga, Shoya Sakamoto, Hanshen Tsai, Hiroshi Idzuchi, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Yoshichika Otani, Shinji Miwa, and Satoru Nakatsuji,  
    ''Electrical manipulation and detection of topological antiferromagnetic state in Mn3Sn-based epitaxial heterostructures''   
-   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Oral)   
+   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Oral).   
 
 1. Xianzhe Chen, Tomoya Higo, Katsuhiro Tanaka, Takuya Nomoto, Hanshen Tsai, Hiroshi Idzuchi, Masanobu Shiga, Shoya Sakamoto, Ryoya Ando, Hidetoshi Kosaki, Takumi Matsuo, Daisuke Nishio-Hamane, Ryotaro Arita, Shinji Miwa, and Satoru Nakatsuji, 
    ''Anisotropic spin polarized current and magnetoresistance in an antiferromagnetic tunnel junction''   
-   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Oral)   
+   International Symposium on Quantum Electronics 2024, Ito International Research Center, Japan, 2024 (Oral).   
 
 1. Masahiko Yunokizaki, Rihito Kondo, Hiroshi Idzuchi, Koji Inukai, Shoya Sakamoto, Katsuhiro Tanaka, Tomoya Higo, Shinji Miwa, and Satoru Nakatsuji,   
    ''Fabrication of Mn<sub>3</sub>Sn/MgO/Fe tunnel Junction down to sub-micron scale''   
-   36th International Microprocesses and Nanotechnology Conference (MNC 2023), Sapporo, Japan, 2023 (Poster)   
+   36th International Microprocesses and Nanotechnology Conference (MNC 2023), Sapporo, Japan, 2023 (Poster).   
 
 1. Shinji Miwa, Xianzhe Chen, Tomoya Higo, Katsuhiro Tanaka, Ryotaro Arita, and Satoru Nakatsuji,   
    ''Spin-torque switching and tunnel magnetoresistance using an antiferromagnetic Weyl semimetal''   
-   68th Annual Conference on Magnetism and Magnetic Materials (MMM2023), Texas, USA, 2023 (Invited talk)   
+   68th Annual Conference on Magnetism and Magnetic Materials (MMM2023), Texas, USA, 2023 (Invited talk).   
 {: reversed="reversed"}
 
 
