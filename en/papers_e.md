@@ -5,14 +5,17 @@ title: Publications
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # Preprints
 
-1. Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
-  ''<i>Ab initio</i> study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn antiferromagnetic tunnel junction''   
-  [arXiv:2509.21877](https://doi.org/10.48550/arXiv.2509.21877){:target="_blank"}.    
+1. 
 
 {: reversed="reversed"}
 
 
 # Refereed papers
+
+1. Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
+''<i>Ab initio</i> study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn antiferromagnetic tunnel junction''   
+[Phys. Rev. Mater. **10**, 044405 (2026)](https://doi.org/10.1103/xt7z-sf3x){:target="_blank"} (**Editors' Suggestion**).    
+[Press Release](https://www.s.u-tokyo.ac.jp/en/press/11113/){:target="_blank"}  
 
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
 ''First-principles study of the tunnel magnetoresistance effect with Cr-doped RuO<sub>2</sub> electrode''   
@@ -32,8 +35,8 @@ title: Publications
 [プレスリリース](https://www.s.u-tokyo.ac.jp/ja/press/2023/8241/){:target="_blank"}  
 
 1. Katsuhiro Tanaka and Chisa Hotta,   
-  ''Finite-temperature thermodynamic properties of spin-1 nematics in an applied magnetic field''    
-  [Phys. Rev. B **102**, 140401(R) (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.140401){:target="_blank"}.   
+''Finite-temperature thermodynamic properties of spin-1 nematics in an applied magnetic field''    
+[Phys. Rev. B **102**, 140401(R) (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.140401){:target="_blank"}.   
 
 1. Katsuhiro Tanaka and Chisa Hotta,  
 ''Multiple quadrupolar or nematic phases driven by the Heisenberg interactions in a spin-1 dimer system forming a bilayer''  

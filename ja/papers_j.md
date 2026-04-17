@@ -5,14 +5,17 @@ title: 論文
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # プレプリント
 
-1. Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
-  ''<i>Ab initio</i> study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn antiferromagnetic tunnel junction''   
-  [arXiv:2509.21877](https://doi.org/10.48550/arXiv.2509.21877){:target="_blank"}.    
+1. 
 
 {: reversed="reversed"}
 
 
 # 査読済み論文
+
+1. Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
+''<i>Ab initio</i> study of magnetoresistance effect in Mn<sub>3</sub>Sn/MgO/Mn<sub>3</sub>Sn antiferromagnetic tunnel junction''   
+[Phys. Rev. Mater. **10**, 044405 (2026)](https://doi.org/10.1103/xt7z-sf3x){:target="_blank"} (**Editors' Suggestion**).    
+[プレスリリース](https://www.s.u-tokyo.ac.jp/ja/press/11113/){:target="_blank"}  
 
 1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
 ''First-principles study of the tunnel magnetoresistance effect with Cr-doped RuO<sub>2</sub> electrode''   
