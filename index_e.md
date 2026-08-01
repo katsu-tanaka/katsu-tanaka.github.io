@@ -9,6 +9,12 @@ Welcome to Katsuhiro Tanaka's webpage.
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2026/07/24**  
+  We have opened a preprint.  
+  Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+  ''Tunnel magnetoresistance effect with a Cr-doped RuO<sub>2</sub>(110) altermagnet''  
+  [arXiv:2607.21092](https://doi.org/10.48550/arXiv.2607.21092){:target="_blank"}.  
+
 - **2026/04/16**  
   Our new paper is published (selected as Editors' Suggestion).  
   Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   

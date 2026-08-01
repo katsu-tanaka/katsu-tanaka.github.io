@@ -5,7 +5,9 @@ title: 論文
 [ORCID: 0009-0000-7556-7579](https://orcid.org/0009-0000-7556-7579){:target="_blank"}  
 # プレプリント
 
-1. 
+1. Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+''Tunnel magnetoresistance effect with a Cr-doped RuO<sub>2</sub>(110) altermagnet''  
+[arXiv:2607.21092](https://doi.org/10.48550/arXiv.2607.21092){:target="_blank"}.  
 
 {: reversed="reversed"}
 

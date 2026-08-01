@@ -10,6 +10,12 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2026/07/24**  
+  プレプリントを公開しました。  
+  Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
+  ''Tunnel magnetoresistance effect with a Cr-doped RuO<sub>2</sub>(110) altermagnet''  
+  [arXiv:2607.21092](https://doi.org/10.48550/arXiv.2607.21092){:target="_blank"}.  
+
 - **2026/04/16**  
   論文が出版されました。Editors' Suggestion に選ばれました。  
   Katsuhiro Tanaka, Yuta Toga, Susumu Minami, Satoru Nakatsuji, Takuya Nomoto, Takashi Koretsune, and Ryotaro Arita,   
