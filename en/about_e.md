@@ -32,7 +32,7 @@ Katsuhiro Tanaka
 - 2025/04 -- 2030/03 (Planned)   
   [KAKENHI Grant-in-Aid for Early-Career Scientists](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K17935/){:target="_blank"}   
   Principal Investigator  
-- 2025/01 -- 2026/03 (Planned)  
+- 2025/01 -- 2026/03  
   Grant from Precise Measurement Technology Promotion Foundation  
   Co-Investigator (PI: Hiroshi Idzuchi)  
 - 2018/10 -- 2019/03  
