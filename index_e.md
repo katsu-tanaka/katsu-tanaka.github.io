@@ -9,6 +9,11 @@ Welcome to Katsuhiro Tanaka's webpage.
 - **2020/mm/dd**   
   This website is opened (tentative).   
 
+- **2026/08/01**  
+  We have held [the Open Campus at School of Sustainable Design, University of Toyama](https://www.sus.u-toyama.ac.jp/opencampus2026/){:target="_blank"}.  
+  Thank you very much for attending.   
+  I gave a mock lecture titled "コンピュータで未来の材料をデザインする 〜AIで材料科学？〜" (Designing the Materials of the Future with Computers --- Materials Science with AI?) (in Japanese).    
+
 - **2026/07/24**  
   We have opened a preprint.  
   Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  

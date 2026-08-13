@@ -10,6 +10,11 @@ title: Katsuhiro Tanaka
   ホームページ（仮）を公開しました。
   しばらく工事中なので（仮）です。     
 
+- **2026/08/01**  
+  [富山大学都市デザイン学部オープンキャンパス 2026](https://www.sus.u-toyama.ac.jp/opencampus2026/){:target="_blank"} が開催されました。  
+  ご参加くださった皆様、ありがとうございました。  
+  田中は「コンピュータで未来の材料をデザインする 〜AIで材料科学？〜」というタイトルで模擬授業を行いました。  
+
 - **2026/07/24**  
   プレプリントを公開しました。  
   Katsuhiro Tanaka, Takuya Nomoto, and Ryotaro Arita,  
