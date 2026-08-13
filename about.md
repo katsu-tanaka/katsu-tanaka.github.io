@@ -19,6 +19,6 @@ If there are any problems in my homepage, please let me know by e-mail.
 
 
 
-[GHP]:https://pages.github.com/
+[GHP]:https://docs.github.com/ja/pages
 [Jekyll]:https://jekyllrb.com/
 [GA]:https://analytics.google.com
